@@ -1,3 +1,0 @@
-1. wap to find the factorial of a given number 
-2. wap to find the gcd of the given number 
-3. way to find the sum of n elements using various arr addressing modes
